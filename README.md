@@ -1,4 +1,4 @@
-# Sample project to store cities in AWS DynamoDB using Serverless Framework -> Node 6
+# Sample project to store tasks in AWS DynamoDB using Serverless Framework -> Node 6
 
 Circli.CI integration
 
